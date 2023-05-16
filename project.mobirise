@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page13.html",
+    "currentPage": "fasilitas.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -9891,7 +9891,7 @@
         }
       ]
     },
-    "page13.html": {
+    "fasilitas.html": {
       "settings": {
         "title": "SMKS Sanctus | fasilitas",
         "order": "5"
